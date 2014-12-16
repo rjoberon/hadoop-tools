@@ -5,7 +5,7 @@ Some tools for Hadoop
 
 ## BatchRename 
 
-[de.l3s.hadoop.BatchRename](blob/master/src/main/java/de/l3s/hadoop/BatchRename.java)
+[de.l3s.hadoop.BatchRename](src/main/java/de/l3s/hadoop/BatchRename.java)
 renames files in HDFS very fast. Renaming 100 files with `hdfs dfs
 -mv` takes four minutes while this tool requires less than four
 seconds!
