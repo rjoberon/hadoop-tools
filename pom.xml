@@ -12,7 +12,7 @@
 		</repository>
 	</repositories>
 	<properties>
-	  <hadoop.version>2.9.2</hadoop.version>
+	  <hadoop.version>2.10.1</hadoop.version>
 	</properties>
 	<build>
 		<pluginManagement>
